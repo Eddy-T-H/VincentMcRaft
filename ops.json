@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "uuid": "07d66545-9590-3e1a-8f86-3bd94b9cc59b",
+    "name": "Ulfarin",
+    "level": 4
+  },
+  {
+    "uuid": "1cfb64b3-27c2-3867-a590-62d4f220c539",
+    "name": "Kiwi",
+    "level": 4
+  }
+]
